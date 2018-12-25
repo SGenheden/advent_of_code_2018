@@ -5,6 +5,7 @@
 * numpy
 * scipy
 * blist
+* networkx
 
 
 ## Usage
